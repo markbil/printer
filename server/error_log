@@ -1,0 +1,3 @@
+[19-Nov-2012 13:02:29] PHP Parse error:  syntax error, unexpected '.' in /home/meetmee/public_html/php/Gelatine/blog/thermalprinter/print.php on line 10
+[19-Nov-2012 13:02:49] PHP Parse error:  syntax error, unexpected '.' in /home/meetmee/public_html/php/Gelatine/blog/thermalprinter/print.php on line 10
+[21-Nov-2012 02:36:32] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/meetmee/public_html/php/Gelatine/blog/thermalprinter/print.php on line 129
